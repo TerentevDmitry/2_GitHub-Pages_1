@@ -1,4 +1,4 @@
-# Я учусь в __Нетологии__!
+# Я учусь в [__Нетологии__](https://netology.ru/)!
 
 ![А.А.Блок](https://educational-solutions.ru/upload/iblock/a77/a7797ff38f6f66ad94613c30f62bf6c7.jpeg)
 
