@@ -1,6 +1,6 @@
 # Я учусь в __Нетологии__!
 
-![А.А.Блок](https://1.bp.blogspot.com/-g0UX7aLFbvU/Xd-KCPJ0UwI/AAAAAAAADN4/Q_dtInWZ7ww8yZ_17zAcwM9nqCRuVyYoACNcBGAsYHQ/s1600/515439aa9b49457909ac2ddea893c526.jpg = 317x450)
+![А.А.Блок](https://1.bp.blogspot.com/-g0UX7aLFbvU/Xd-KCPJ0UwI/AAAAAAAADN4/Q_dtInWZ7ww8yZ_17zAcwM9nqCRuVyYoACNcBGAsYHQ/s1600/515439aa9b49457909ac2ddea893c526.jpg){:height="450px" width="317px"}
 
 ## Александр Блок — И вновь порывы юных лет
 
